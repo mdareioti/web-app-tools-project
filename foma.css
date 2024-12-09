@@ -1,0 +1,80 @@
+h1{
+    color:red;
+    font-size: 2em;
+    border-bottom: 1px solid #375e97;
+    box-shadow: rgb(70, 230, 230);
+}
+.containerinner{
+    width: 200px;
+    border-radius: 5px;
+    background-color: rgb(173, 177, 178);
+    padding: 20px;
+    margin: 50px;;
+    box-sizing:content-box;
+    align-self: center;
+    align-items: center;
+    float: left;
+}
+
+body {
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 0px;
+    overflow-x: hidden;
+    background-color: gainsboro);
+    text-align: center;
+}
+
+
+input[type=text]{width: 100;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+r   }
+
+.containerouter{
+    width:100%;
+    page:center;
+    border-radius: 5px;
+    background-color: gainsboro;
+    align-items: center;
+}
+link{
+    display: none;
+}
+
+ul {
+    font-size: larger;
+    font-weight: bold;
+    list-style:circle;
+    list-style-image:url();
+    transition: 5s;
+    text-shadow: blueviolet;
+    text-emphasis: initial;
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+p {
+    text:page;
+    text-align: justify;
+}
+
+a:hover{color:chartreuse;
+    text-decoration: none;
+}
+
+a:active{text-decoration: none;}
+
+ol {
+    font-size: larger;
+    font-weight: bold;
+    transition: 5s;
+    margin-left: 50px;
+    padding: 0px;
+    text-align: left;
+    letter-spacing: normal;
+    nu
